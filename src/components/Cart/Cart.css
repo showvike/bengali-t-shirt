@@ -1,0 +1,8 @@
+.cart {
+  text-align: center;
+  border: 3px solid whitesmoke;
+  border-radius: 10px;
+  height: 100vh;
+  position: sticky;
+  top: 0;
+}
